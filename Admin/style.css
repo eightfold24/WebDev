@@ -1,0 +1,18 @@
+body
+{
+	margin:0;
+	padding:0;
+	height: 100vh;
+}
+
+#particles-js
+{	height:100%;
+	background: #1a1a1a;
+	position:absolute;}
+
+#fullwidth
+{
+	width:100%;
+	background:#ffffff;
+}
+

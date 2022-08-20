@@ -1,0 +1,7 @@
+[23-Jul-2018 14:25:13 Europe/Dublin] PHP Parse error:  syntax error, unexpected '}' in /home/liamsclo/public_html/HiddenNexus/view.php on line 228
+[24-Jul-2018 14:09:44 Europe/Dublin] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/liamsclo/public_html/HiddenNexus/report.php on line 6
+[24-Jul-2018 14:10:52 Europe/Dublin] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/liamsclo/public_html/HiddenNexus/report.php on line 6
+[24-Jul-2018 14:26:25 Europe/Dublin] PHP Parse error:  syntax error, unexpected '=' in /home/liamsclo/public_html/HiddenNexus/report.php on line 5
+[24-Jul-2018 14:27:23 Europe/Dublin] PHP Parse error:  syntax error, unexpected '=' in /home/liamsclo/public_html/HiddenNexus/report.php on line 5
+[24-Jul-2018 14:45:09 Europe/Dublin] PHP Parse error:  syntax error, unexpected '"' in /home/liamsclo/public_html/HiddenNexus/report.php on line 8
+[24-Jul-2018 14:50:57 Europe/Dublin] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/liamsclo/public_html/HiddenNexus/report.php on line 20

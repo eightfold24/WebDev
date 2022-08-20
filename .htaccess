@@ -1,0 +1,9 @@
+AuthName "Hidden Nexus Login"
+AuthUserFile /home/liamsclo/passwords/.htpasswd
+AuthType Basic
+require valid-user
+
+AuthName "Hidden Nexus Login Admin"
+AuthUserFile /home/liamsclo/passwords/.htpasswd_admin
+AuthType Basic
+require valid-user
